@@ -62,6 +62,78 @@ Used FileZilla to transfer files between the Windows client and Linux server.
 
 Created users and groups and configured directory ownership and file permissions.
 
+## Project Screenshots
+
+The following screenshots demonstrate the configuration and testing of the services in the virtual lab environment.
+
+### 1. Linux Server Administration
+
+This screenshot demonstrates the Webmin dashboard used for Linux server administration.
+
+![Webmin Dashboard](docs/screenshots/01-server-administration/webmin-dashboard.png)
+
+### 2. DNS Configuration
+
+This screenshot demonstrates the BIND DNS server administration interface.
+
+![BIND DNS Dashboard](docs/screenshots/02-dns-configuration/bind-dns-dashboard.png)
+
+### 3. Apache Web Server and Virtual Hosting
+
+The following screenshots demonstrate the Apache web server dashboard and the websites configured for different departments.
+
+![Apache Dashboard](docs/screenshots/03-apache-web-server/apache-dashboard.png)
+
+**Main Website**
+
+![Main Website](docs/screenshots/03-apache-web-server/main-website.png)
+
+**Sales Department Website**
+
+![Sales Website](docs/screenshots/03-apache-web-server/sales-website.png)
+
+**Research Department Website**
+
+![Research Website](docs/screenshots/03-apache-web-server/research-website.png)
+
+### 4. FTP File Transfer
+
+This screenshot demonstrates the FileZilla FTP connection to the Linux server.
+
+![FileZilla FTP Connection](docs/screenshots/04-ftp-file-transfer/filezilla-ftp-connection.png)
+
+### 5. Email Services
+
+The following screenshots demonstrate the SquirrelMail interface and email-related activities.
+
+**SquirrelMail Login**
+
+![SquirrelMail Login](docs/screenshots/05-mail-server/squirrelmail-login.png)
+
+**Compose Email**
+
+![Compose Email](docs/screenshots/05-mail-server/compose-email.png)
+
+**Received Email**
+
+![Received Email](docs/screenshots/05-mail-server/received-email.png)
+
+### 6. Linux User and Permission Management
+
+The following screenshots demonstrate departmental user management and Linux access-control configuration.
+
+**Sales Department**
+
+![Sales User Management](docs/screenshots/06-user-management/sales-user-management.png)
+
+**Research Department**
+
+![Research User Management](docs/screenshots/06-user-management/research-user-management.png)
+
+**Accounts Department**
+
+![Accounts User Management](docs/screenshots/06-user-management/accounts-user-management.png)
+
 ## Testing
 
 The project included testing of:
