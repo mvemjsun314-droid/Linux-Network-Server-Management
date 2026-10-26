@@ -66,73 +66,57 @@ Created users and groups and configured directory ownership and file permissions
 
 The following screenshots demonstrate the configuration and testing of the services in the virtual lab environment.
 
-### 1. Linux Server Administration
+### 1. Server Administration — Webmin
 
-This screenshot demonstrates the Webmin dashboard used for Linux server administration.
+![Webmin Dashboard](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 030140.png>)
 
-![Webmin Dashboard](docs/screenshots/01-server-administration/webmin-dashboard.png)
+### 2. DNS Configuration — BIND
 
-### 2. DNS Configuration
+![BIND DNS Dashboard](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 030809.png>)
 
-This screenshot demonstrates the BIND DNS server administration interface.
+### 3. Apache Web Server
 
-![BIND DNS Dashboard](docs/screenshots/02-dns-configuration/bind-dns-dashboard.png)
+![Apache Dashboard](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 095148.png>)
 
-### 3. Apache Web Server and Virtual Hosting
+### 4. Main Website
 
-The following screenshots demonstrate the Apache web server dashboard and the websites configured for different departments.
+![Main Website](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 102115.png>)
 
-![Apache Dashboard](docs/screenshots/03-apache-web-server/apache-dashboard.png)
+### 5. Research Department Website
 
-**Main Website**
+![Research Website](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 102241.png>)
 
-![Main Website](docs/screenshots/03-apache-web-server/main-website.png)
+### 6. Sales Department Website
 
-**Sales Department Website**
+![Sales Website](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 102256.png>)
 
-![Sales Website](docs/screenshots/03-apache-web-server/sales-website.png)
+### 7. FTP File Transfer — FileZilla
 
-**Research Department Website**
+![FileZilla FTP Connection](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 104833.png>)
 
-![Research Website](docs/screenshots/03-apache-web-server/research-website.png)
+### 8. Email Services — SquirrelMail
 
-### 4. FTP File Transfer
+![SquirrelMail Login](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 105214.png>)
 
-This screenshot demonstrates the FileZilla FTP connection to the Linux server.
+### 9. User Management — Sales
 
-![FileZilla FTP Connection](docs/screenshots/04-ftp-file-transfer/filezilla-ftp-connection.png)
+![Sales User Management](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 110846.png>)
 
-### 5. Email Services
+### 10. User Management — Research
 
-The following screenshots demonstrate the SquirrelMail interface and email-related activities.
+![Research User Management](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 111047.png>)
 
-**SquirrelMail Login**
+### 11. User Management — Accounts
 
-![SquirrelMail Login](docs/screenshots/05-mail-server/squirrelmail-login.png)
+![Accounts User Management](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 111239.png>)
 
-**Compose Email**
+### 12. Compose Email
 
-![Compose Email](docs/screenshots/05-mail-server/compose-email.png)
+![Compose Email](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 112604.png>)
 
-**Received Email**
+### 13. Received Email
 
-![Received Email](docs/screenshots/05-mail-server/received-email.png)
-
-### 6. Linux User and Permission Management
-
-The following screenshots demonstrate departmental user management and Linux access-control configuration.
-
-**Sales Department**
-
-![Sales User Management](docs/screenshots/06-user-management/sales-user-management.png)
-
-**Research Department**
-
-![Research User Management](docs/screenshots/06-user-management/research-user-management.png)
-
-**Accounts Department**
-
-![Accounts User Management](docs/screenshots/06-user-management/accounts-user-management.png)
+![Received Email](<docs/screenshots/01-server-administration/Screenshot 2026-07-07 112703.png>)
 
 ## Testing
 
